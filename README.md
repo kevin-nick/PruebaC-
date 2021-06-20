@@ -8,7 +8,7 @@
  que me marcaba con el odbc y el ado.net sin nada mas por agragar me despido con un cordial saludo y deciandole un exelente fin de semana.
 <p>
 <hr>
-<img src="" alt="imagen1 error odbc"/>
-<img src="" alt="imagen2 error ado.net"/>
-<img src="" alt="imagen3 error "/>
+<img src="/Captura de pantalla (279).png" alt="imagen1 error odbc"/>
+<img src="/Captura de pantalla (280).png" alt="imagen2 error ado.net"/>
+<img src="/Captura de pantalla (281).png" alt="imagen3 error "/>
 <p>el ado.net no me cargaba las tablas nose porque creo que por compativilidad de verciones!!!!😨</p>
