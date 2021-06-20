@@ -10,4 +10,5 @@
 <hr>
 <img src="" alt="imagen1 error odbc"/>
 <img src="" alt="imagen2 error ado.net"/>
+<img src="" alt="imagen3 error "/>
 <p>el ado.net no me cargaba las tablas nose porque creo que por compativilidad de verciones!!!!😨</p>
